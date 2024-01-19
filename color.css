@@ -1,0 +1,65 @@
+h1{
+    text-align:center;
+    font-family:italic;
+}
+.content{
+    height: 70px;
+    width: 150px;
+   
+    text-align: center;
+}
+div#first   {background-color:#F0F8FF;}
+div#second  {background-color:#FAEBD7;}
+div#third   {background-color:#00FFFF;}
+div#fourth  {background-color:#7FFFD4;}
+div#fifth   {background-color:#F0FFFF;}
+div#sixth   {background-color:#F5F5DC;}
+div#seventh {background-color:#FFE4C4;}
+
+div#ONE   {background-color:#0000FF ;}
+div#TWO   {background-color: #8A2BE2;}
+div#THREE  {background-color:#A52A2A;}
+div#FOUR   {background-color:#DEB887;}
+div#FIVE  {background-color:#5F9EA0;}
+div#SIX   {background-color:#7FFF00;}
+div#SEVEN  {background-color:#D2691E;}
+
+div#A   {background-color:#FFF8DC ;}
+div#B   {background-color:#DC143C ;}
+div#C   {background-color:#00FFFF ;}
+div#D   {background-color:#00008B ;}
+div#E   {background-color:#008B8B ;}
+div#F   {background-color:#B8860B ;}
+div#G   {background-color:#A9A9A9 ;}
+
+div#H    {background-color:#8B008B ;}
+div#I   {background-color:#556B2F ;}
+div#J    {background-color:#FF8C00 ;}
+div#K    {background-color:#9932CC ;}
+div#L    {background-color:#8B0000 ;}
+div#M    {background-color:#E9967A ;}
+div#N    {background-color:#8FBC8F ;}
+
+div#O    {background-color:#483D8B ;}
+div#P    {background-color:#2F4F4F ;}
+div#Q    {background-color:#00CCD1 ;}
+div#R    {background-color:#9400D3 ;}
+div#S    {background-color:#FF1493 ;}
+div#T    {background-color:#00BFFF ;}
+div#U    {background-color:#696969 ;}
+
+div#V    {background-color:#1E90FF ;}
+div#W    {background-color:#B22222 ;}
+div#X    {background-color:#FFFAF0 ;}
+div#Y    {background-color:#228B22 ;}
+div#Z    {background-color:#FF00FF ;}
+div#THE    {background-color:#DCDCDC ;}
+div#AND    {background-color:#F8F8FF ;}
+
+div#OR    {background-color:#FFD700;}
+div#THEN    {background-color:#DAA520 ;}
+div#WHERE    {background-color:#808080 ;}
+div#WHAT    {background-color:#000000; color:white}
+div#WHY    {background-color:#FFEBCD ;}
+div#HOW    {background-color:#FF7F50 ;}
+div#WHO    {background-color:#6495ED ;}
